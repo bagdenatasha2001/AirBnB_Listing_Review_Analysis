@@ -11,7 +11,7 @@ The primary objective of this project is to accurately predict the country to wh
 ## Tools Used :
 
 - **Analytical & Visual:**  Python\
-  <img width="96" height="96" src="https://github.com/tanu4419/Crime_Against_Women_In_India-2001-2014-/blob/main/Images/icons8-python-96.png" alt="python"/>
+  <img width="96" height="96" src="https://github.com/bagdenatasha2001/AirBnB_Listing_Review_Analysis/blob/main/python-icon.png" alt="python"/>
 
 
 
