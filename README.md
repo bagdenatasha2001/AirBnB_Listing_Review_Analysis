@@ -8,8 +8,14 @@ Airbnb is an online marketplace that connects people who want to rent out their 
 
 The primary objective of this project is to accurately predict the country to which a new user will make their first booking. By leveraging user demographics and session data, the analysis seeks to enhance Airbnb's ability to personalize user experiences and improve marketing strategies.
 
+## Tools Used :
 
-## Dataset :
+- **Analytical & Visual:**  Python\
+  <img width="96" height="96" src="https://github.com/tanu4419/Crime_Against_Women_In_India-2001-2014-/blob/main/Images/icons8-python-96.png" alt="python"/>
+
+
+
+##  Dataset :
 The dataset includes the following files:
 - listings.csv
 Contains detailed information about Airbnb properties, including host details, location, pricing, and room types.
